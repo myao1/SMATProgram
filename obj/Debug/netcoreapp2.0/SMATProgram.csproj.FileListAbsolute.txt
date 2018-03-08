@@ -1,0 +1,10 @@
+C:\Trunk\myao1\SMATProgram\bin\Debug\netcoreapp2.0\SMATProgram.deps.json
+C:\Trunk\myao1\SMATProgram\bin\Debug\netcoreapp2.0\SMATProgram.runtimeconfig.json
+C:\Trunk\myao1\SMATProgram\bin\Debug\netcoreapp2.0\SMATProgram.runtimeconfig.dev.json
+C:\Trunk\myao1\SMATProgram\bin\Debug\netcoreapp2.0\SMATProgram.dll
+C:\Trunk\myao1\SMATProgram\bin\Debug\netcoreapp2.0\SMATProgram.pdb
+C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.csproj.CoreCompileInputs.cache
+C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.AssemblyInfoInputs.cache
+C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.AssemblyInfo.cs
+C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.dll
+C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.pdb
