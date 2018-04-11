@@ -8,3 +8,4 @@ C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.AssemblyInfoInput
 C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.AssemblyInfo.cs
 C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.dll
 C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.pdb
+C:\Trunk\myao1\SMATProgram\obj\Debug\netcoreapp2.0\SMATProgram.csprojResolveAssemblyReference.cache
